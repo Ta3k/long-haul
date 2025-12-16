@@ -18,11 +18,12 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
 
+timezone: Europe/Warsaw
+locale: pl_PL
+
 navigation:
-    - title: Home
+    - title: Blog
       url: /index.html
-    - title: O mnie
-      url: /about
     - title: Kontakt
       url: /contact
 
