@@ -6,7 +6,7 @@ categories: [E-commerce]
 tags: []
 ---
 
-# E-commerce — proste sztuczki na zwiększenie konwersji
+## E-commerce — proste sztuczki na zwiększenie konwersji
 
 W sklepach internetowych drobne zmiany mogą przełożyć się na znaczący wzrost konwersji. Poniżej znajdziesz kilka praktycznych, łatwych do wdrożenia pomysłów, które możesz przetestować w ciągu kilku dni.
 
