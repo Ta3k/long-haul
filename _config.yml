@@ -28,13 +28,13 @@ navigation:
       url: /contact
 
 social:
-    github: ta3k
-    instagram: mrtaczyk
-    facebook: maciej.karaszewski
+    # github: ta3k
+    # instagram: mrtaczyk
+    # facebook: maciej.karaszewski
     email: maciej.m.karaszewski@gmail.com
-    linkedin: maciej.karaszewski
-    youtube: MrTaczyk
-    tumblr: i-am-a-fish
+    # linkedin: maciej.karaszewski
+    # youtube: MrTaczyk
+    # tumblr: i-am-a-fish
 
 google_analytics: "UA-58263416-1"
 
